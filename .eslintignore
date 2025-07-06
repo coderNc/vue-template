@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vscode/
+.idea/
+public/
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.gif
